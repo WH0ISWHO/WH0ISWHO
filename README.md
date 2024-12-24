@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Built a medical appointment platform for foreigners in Korea and a TOEFL vocabulary app.<br><br>👯 I'm looking to collaborate on<br>Blockchain projects, database optimization, and innovative web applications.<br><br>🤝 I'm looking for help with<br>Blockchain technology, database management, and coding interview skills.<br><br>🌱 I'm currently learning<br>SQL (SQLite, MySQL) for robust database management in web applications.<br><br>💬 Ask me about<br>Jazz fusion music, car maintenance, fitness, and building projects from scratch.<br><br>⚡ Fun fact<br>From drummer to coder - both require precision and teamwork.
+🔭 I’m currently working on<br>Built a medical appointment platform for foreigners in Korea and a TOEFL vocabulary app.<br><br>👯 I'm looking to collaborate on<br>Blockchain projects, database optimization, and innovative web applications.<br><br>🤝 I'm looking for help with<br>Blockchain technology, database management, and coding interview skills.<br><br>🌱 I'm currently learning<br>SQL (SQLite, MySQL) for robust database management in web applications.<br><br>💬 Ask me about<br>Fusion jazz music, car maintenance, fitness, and building projects from scratch.<br><br>⚡ Fun fact<br>From drummer to coder - both require precision and teamwork.
 
 
 ## 🌐 Socials:
